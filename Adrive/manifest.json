@@ -1,0 +1,9 @@
+{
+	"name":"Adrive",
+	"version":"0.1",
+	"app":{
+		"launch":{
+			"web_url":"http://www.adrive.com/"
+		}
+	}
+}
